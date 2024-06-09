@@ -36,11 +36,11 @@ Enhancing your online presence and engagement through strategic social media cam
 
 Stay connected with Ratboise through our social media channels:
 
-[![LinkedIn](https://rabtoise.org/assets/linkedin.webp)](https://www.linkedin.com/company/rabtoise){:height="30px" width="30px"} &nbsp;
-[![Facebook](https://rabtoise.org/assets/facebook.webp)](https://www.facebook.com/profile.php?id=61558620061065){:height="30px" width="30px"} &nbsp;
-[![Twitter](https://rabtoise.org/assets/twitter.webp)](https://twitter.com/rabtoise){:height="30px" width="30px"} &nbsp;
-[![Instagram](https://rabtoise.org/assets/instagram.webp)](https://www.instagram.com/rabtoise/){:height="30px" width="30px"} &nbsp;
-[![YouTube](https://rabtoise.org/assets/youtube.webp)](https://www.youtube.com/@Rabtoise){:height="30px" width="30px"}
+<a href="https://www.linkedin.com/company/rabtoise"><img src="https://rabtoise.org/assets/linkedin.webp" alt="LinkedIn" width="30" height="30"></a> &nbsp;
+<a href="https://www.facebook.com/profile.php?id=61558620061065"><img src="https://rabtoise.org/assets/facebook.webp" alt="Facebook" width="30" height="30"></a> &nbsp;
+<a href="https://twitter.com/rabtoise"><img src="https://rabtoise.org/assets/twitter.webp" alt="Twitter" width="30" height="30"></a> &nbsp;
+<a href="https://www.instagram.com/rabtoise/"><img src="https://rabtoise.org/assets/instagram.webp" alt="Instagram" width="30" height="30"></a> &nbsp;
+<a href="https://www.youtube.com/@Rabtoise"><img src="https://rabtoise.org/assets/youtube.webp" alt="YouTube" width="30" height="30"></a>
 
 ## Visit Our Website
 
